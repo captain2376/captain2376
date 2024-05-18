@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @captain2376
-- 👀 I’m interested in FullStack Development.
+- 👀 I’m interested in Java FullStack Development.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on  Java projects.
 - 📫 How to reach me b172196@rgukt.ac.in
